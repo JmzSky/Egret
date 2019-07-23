@@ -1,0 +1,17 @@
+{
+    "16c0994bc27": {
+        "path": "page\\JumpScene.ts",
+        "class": "JumpScene",
+        "parentPath": ""
+    },
+    "16c0996184c": {
+        "path": "page\\GameScene.ts",
+        "class": "GameScene",
+        "parentPath": ""
+    },
+    "16c09a2ab99": {
+        "path": "page\\GameScene.ts",
+        "class": "GameScene",
+        "parentPath": ""
+    }
+}
